@@ -1,1 +1,1 @@
-FROM kubernetesui/metrics-scraper:v1.0.6
+FROM docker pull docker.elastic.co/beats/filebeat-oss:7.6.2
