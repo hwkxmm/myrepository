@@ -1,1 +1,1 @@
-FROM langgenius/dify-sandbox:0.2.1
+FROM langgenius/qdrant:v1.7.3
